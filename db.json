@@ -1,3 +1,4 @@
+[
 {
   "shop": {
     "women": {
@@ -1045,78 +1046,78 @@
         "sneakers": {
           "slug": "krossovkalar",
           "products": [
-            {
-              "id": "1015",
-              "marka": "balenciaga",
-              "name": "Loqo detallı 3XL krossovkası",
-              "price": "1113 AZN",
-              "description": null,
-              "colors": [
-                {
-                  "name": "Boz",
-                  "code": "#CFCFCF"
-                }
-              ],
-              "media": {
-                "images": [
-                  "https://cdn2.emporium.az/i/p/500/255936-bee2e2dd2a6c883b3ee886b8421a2181.jpg",
-                  "https://cdn2.emporium.az/i/p/500/255936-a3065727e6ce1e111697f996e4fb5387.jpg",
-                  "https://cdn2.emporium.az/i/p/500/255936-498bf451cd50c9010e45ce98b3c4638a.jpg"
+              {
+                "id": "1015",
+                "marka": "balenciaga",
+                "name": "Loqo detallı 3XL krossovkası",
+                "price": "1113 AZN",
+                "description": null,
+                "colors": [
+                  {
+                    "name": "Boz",
+                    "code": "#CFCFCF"
+                  }
                 ],
-                "video": null
-              },
-              "sizes": [
-                "EU 41"
-              ],
-              "status": "old",
-              "tags": [
-                "Tərkibi: Parça",
-                "Rəng: Boz",
-                "Alt hündürlüyü: 3.5 sm",
-                "Bağlanma: İpli",
-                "Detallar: Loqo detalı",
-                "Burun forması: Dairəvi",
-                "Altlıq: Rezin"
-              ],
-              "sales": "endirimli"
-            },
-            {
-              "id": "1016",
-              "marka": "balmain",
-              "name": "Loqo detallı 3XL krossovkası",
-              "price": "823 AZN",
-              "description": "İpli bağlanma ilə loqo printli B-Court krossovkası",
-              "colors": [
-                {
-                  "name": "Ağ",
-                  "code": "#FFFFFF"
-                }
-              ],
-              "media": {
-                "images": [
-                  "https://cdn2.emporium.az/i/p/500/262678-fdc7faa8ec9d0c25064b663684402a94.jpg",
-                  "https://cdn2.emporium.az/i/p/500/262678-9744863d3bb6bcf6aa7b4a406b786f12.jpg",
-                  "https://cdn2.emporium.az/i/p/500/262678-e84a661665ab5f8dcb2a4272c07326f6.jpg"
+                "media": {
+                  "images": [
+                    "https://cdn2.emporium.az/i/p/500/255936-bee2e2dd2a6c883b3ee886b8421a2181.jpg",
+                    "https://cdn2.emporium.az/i/p/500/255936-a3065727e6ce1e111697f996e4fb5387.jpg",
+                    "https://cdn2.emporium.az/i/p/500/255936-498bf451cd50c9010e45ce98b3c4638a.jpg"
+                  ],
+                  "video": null
+                },
+                "sizes": [
+                  "EU 41"
                 ],
-                "video": null
+                "status": "old",
+                "tags": [
+                  "Tərkibi: Parça",
+                  "Rəng: Boz",
+                  "Alt hündürlüyü: 3.5 sm",
+                  "Bağlanma: İpli",
+                  "Detallar: Loqo detalı",
+                  "Burun forması: Dairəvi",
+                  "Altlıq: Rezin"
+                ],
+                "sales": "endirimli"
               },
-              "sizes": [
-                "EU 36"
-              ],
-              "status": "old",
-              "tags": [
-                "Tərkibi: Dana dərisi və süet, jakarlı neylon",
-                "Rəng: Ağ",
-                "Alt hündürlüyü: 3,5 sm",
-                "Burun forması: Dairəvi",
-                "Detallar: Loqo printli",
-                "Bağlanma: İpli",
-                "Altlıq: Hamar dəri",
-                "İçlik: Astarlı dəri",
-                "İstehsal: İtaliya istehsalı"
-              ],
-              "sales": "endirimli"
-            }
+              {
+                "id": "1016",
+                "marka": "balmain",
+                "name": "Loqo detallı 3XL krossovkası",
+                "price": "823 AZN",
+                "description": "İpli bağlanma ilə loqo printli B-Court krossovkası",
+                "colors": [
+                  {
+                    "name": "Ağ",
+                    "code": "#FFFFFF"
+                  }
+                ],
+                "media": {
+                  "images": [
+                    "https://cdn2.emporium.az/i/p/500/262678-fdc7faa8ec9d0c25064b663684402a94.jpg",
+                    "https://cdn2.emporium.az/i/p/500/262678-9744863d3bb6bcf6aa7b4a406b786f12.jpg",
+                    "https://cdn2.emporium.az/i/p/500/262678-e84a661665ab5f8dcb2a4272c07326f6.jpg"
+                  ],
+                  "video": null
+                },
+                "sizes": [
+                  "EU 36"
+                ],
+                "status": "old",
+                "tags": [
+                  "Tərkibi: Dana dərisi və süet, jakarlı neylon",
+                  "Rəng: Ağ",
+                  "Alt hündürlüyü: 3,5 sm",
+                  "Burun forması: Dairəvi",
+                  "Detallar: Loqo printli",
+                  "Bağlanma: İpli",
+                  "Altlıq: Hamar dəri",
+                  "İçlik: Astarlı dəri",
+                  "İstehsal: İtaliya istehsalı"
+                ],
+                "sales": "endirimli"
+              }
           ]
         },
         "espadrilles": {
@@ -4560,3 +4561,4 @@
     "designers": {}
   }
 }
+]
